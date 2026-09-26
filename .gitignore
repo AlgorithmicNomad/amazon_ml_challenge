@@ -1,0 +1,14 @@
+# Data
+dataset/
+*.tsv.bak
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# OS/editor
+.DS_Store
+.vscode/
