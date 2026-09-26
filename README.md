@@ -1,9 +1,9 @@
-# Business Entity Resolution — ML Challenge 2026
+# Business Entity Resolution â€” ML Challenge 2026
 
 Submission repo for the Business Entity Resolution challenge.
 
 ## Structure
-- `output/` — final matching_results.tsv and candidate_pairs.tsv
-- `code/business_entity_resolution/` — runnable pipeline (src/, README, requirements.txt)
-- `Documentation_template.md` — methodology write-up
-# amazon_ml_challenge 89aa49d943f849734fdd03da450906659637b502
+- `output/` â€” final matching_results.tsv and candidate_pairs.tsv
+- `code/business_entity_resolution/` â€” runnable pipeline (src/, README, requirements.txt)
+- `Documentation_template.md` â€” methodology write-up
+# amazon_ml_challenge
