@@ -6,3 +6,4 @@ Submission repo for the Business Entity Resolution challenge.
 - `output/` — final matching_results.tsv and candidate_pairs.tsv
 - `code/business_entity_resolution/` — runnable pipeline (src/, README, requirements.txt)
 - `Documentation_template.md` — methodology write-up
+# amazon_ml_challenge 89aa49d943f849734fdd03da450906659637b502
